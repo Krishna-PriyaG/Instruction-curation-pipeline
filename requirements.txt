@@ -1,0 +1,8 @@
+datasets==2.14.6
+transformers==4.38.2
+sentence-transformers==2.2.2
+scikit-learn
+pandas
+numpy
+tqdm
+pytest
